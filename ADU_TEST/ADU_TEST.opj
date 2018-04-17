@@ -1,0 +1,258 @@
+(ExpressProject "ADU_TEST"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\adu_test.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tfootprint")
+    (BOM_Include_File "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "D:\kc705\5496_1280565_REV-1.0_011112.brd")
+    ("Allegro Netlist Output Board File" "allegro\ADU_TEST.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "TRUE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\adu_test.bom"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName
+         "E:\ASD\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-4/SM"
+      (FullPartName "SW DIP-4/SM.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC_CIRCLE
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (JFM4VSX55
+      (FullPartName "JFM4VSX55-14.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "13"))
+    (pwr
+      (FullPartName "pwr.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0"))
+    (balan
+      (FullPartName "balan.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\AGING_TEST\SIN_DIFF\LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-4"
+      (FullPartName "SW DIP-4.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (header1x6
+      (FullPartName "header1x6.Normal")
+      (LibraryName
+         "C:\USERS\RUYI\DESKTOP\AGING_TEST\MONITOR\MOINTOR\MONITOR_LIB.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (FMC_LPC_IO
+      (FullPartName "FMC_LPC_IOD.Normal")
+      (LibraryName "D:\PROJECT\FMC\LIBRARY1.OLB")
+      (DeviceIndex "3"))
+    (25M
+      (FullPartName "25M.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0"))
+    (USBSKT
+      (FullPartName "USBSKT.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0"))
+    (CY7C68013
+      (FullPartName "CY7C68013.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0"))
+    (RESNW_IS_4
+      (FullPartName "RESNW_IS_4.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R-PACK7
+      (FullPartName "R-PACK7.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (sma_edge
+      (FullPartName "sma_edge.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\AGING_TEST\SIN_DIFF\LIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("TCXO 100MHz"
+      (FullPartName "TCXO 100MHz.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0"))
+    (cat811
+      (FullPartName "cat811.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "E:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (JTAG
+      (FullPartName "JTAG.Normal")
+      (LibraryName "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Users\ruyi\Desktop\PsyCB")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\ruyi\Desktop\ADU_TEST\ADU_TEST\adu_test.dsn")
+      (Path "Design Resources"
+         "C:\Users\ruyi\Desktop\ADU_TEST\ADU_TEST\adu_test.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\ruyi\Desktop\ADU_TEST\ADU_TEST\adu_test.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 431"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1456 100 613")
+        (Scroll "-158 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1581 225 738")
+        (Scroll "-158 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "FMC1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1356 0 513")
+        (Scroll "-158 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1381 25 538")
+        (Scroll "-158 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "BALUN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 100 1456 100 613")
+        (Scroll "8 240")
+        (Zoom "120")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PLL"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 200 1556 200 713")
+        (Scroll "428 1040")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ADC1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1381 25 538")
+        (Scroll "0 60")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\ADU_TEST.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "DCDC")))
+  (MPSSessionName "ruyi")
+  (ISPCBBASICLICENSE "false"))

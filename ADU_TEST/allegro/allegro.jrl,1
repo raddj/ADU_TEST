@@ -1,0 +1,65 @@
+\t (00:00:00) allegro 16.6 S018 (v16-6-112BD) Windows 32
+\t (00:00:00)     Journal start - Mon Apr 16 09:51:17 2018
+\t (00:00:00)         Host=RUYI-PC User=ruyi Pid=27580 CPUs=8
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Users/ruyi/Desktop/ADU_TEST/ADU_TEST/allegro/ADU_TEST.brd
+\i (00:00:02) trapsize 8145
+\i (00:00:02) trapsize 7999
+\i (00:00:02) trapsize 8170
+\i (00:00:02) trapsize 8241
+\i (00:00:03) trapsize 7345
+\i (00:00:03) trapsize 7345
+\i (00:00:04) generaledit 
+\i (00:00:06) pick grid 5470.52 1166.25
+\t (00:00:06) last pick:  5470.53  1166.10
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 2855.64 1371.92
+\i (00:00:07) trapsize 3673
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 2855.64 1371.92
+\i (00:00:07) trapsize 1836
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 2855.65 1371.93
+\i (00:00:07) trapsize 918
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 2749.14 1408.66
+\i (00:00:07) trapsize 1836
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 2749.13 1408.66
+\i (00:00:08) trapsize 3673
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 2470.02 1856.72
+\i (00:00:08) trapsize 1836
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 2470.02 1856.72
+\i (00:00:08) trapsize 918
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 2470.03 1856.73
+\i (00:00:09) trapsize 1836
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 2124.80 1856.72
+\i (00:00:10) trapsize 918
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 2207.44 1838.36
+\i (00:00:14) trapsize 1836
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 2207.44 1838.37
+\i (00:00:15) trapsize 3673
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 1671.24 2888.72
+\i (00:00:16) trapsize 1836
+\i (00:01:52) exit 
+\t (00:01:53)     Journal end - Mon Apr 16 09:53:09 2018

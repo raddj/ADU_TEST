@@ -1,0 +1,5085 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-16-2018 at 16:34:01 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ADU_TEST';
+ POST_TIME='Sep 14 2013 00:32:48';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238172@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238172@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238172@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238032@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238032@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238032@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043451@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043451@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043451@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP_SC3528_22U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042417@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042417@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042417@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP_SC7343_470U_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042357@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042357@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042357@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP_SC7343_330U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042245@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042245@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042245@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C104 'CAP_SC7343_1000U_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042119@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042119@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042119@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'CAP_SC7343_470U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042159@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042159@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042159@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C106 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042373@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042373@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042373@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042103@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042103@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042103@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305346@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305346@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305346@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6304910@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6304910@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6304910@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_SC0402_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238064@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238064@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238064@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6304862@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6304862@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6304862@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6304878@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6304878@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6304878@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305002@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305002@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305002@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305018@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305018@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305018@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305034@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305034@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305034@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305070@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305070@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305070@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305086@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305086@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305086@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305102@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305102@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305102@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305118@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305118@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305118@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305150@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305150@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305150@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238204@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238204@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238204@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305134@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305134@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305134@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305226@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305226@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305226@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305258@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305258@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305258@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305242@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305242@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305242@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6305286@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6305286@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6305286@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6716@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6716@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6716@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6742@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6742@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6742@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6768@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6768@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6768@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6794@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6794@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6794@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6820@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6820@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6820@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238220@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238220@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238220@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6691@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6691@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6691@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7338@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7338@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7338@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7354@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7354@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7354@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7370@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7370@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7370@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7386@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7386@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7386@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP NP_SC0805_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7189046@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7189046@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7189046@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAP NP_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6220402@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6220402@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6220402@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C137 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6220428@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6220428@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6220428@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C138 'CAP NP_SC0603_33P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6220928@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6220928@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6220928@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6267467@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6267467@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6267467@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238236@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238236@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238236@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6267451@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6267451@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6267451@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C141 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6267483@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6267483@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6267483@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C142 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6267499@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6267499@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6267499@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C143 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6267515@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6267515@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6267515@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C144 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6267531@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6267531@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6267531@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C145 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285574@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285574@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285574@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C146 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285278@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285278@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285278@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C147 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284198@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284198@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284198@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C148 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286506@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286506@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286506@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C149 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287854@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287854@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287854@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235080@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235080@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235080@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C150 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287870@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287870@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287870@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C151 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287886@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287886@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287886@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C152 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287902@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287902@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287902@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287978@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287978@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287978@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283690@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283690@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283690@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283706@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283706@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283706@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284070@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284070@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284070@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284086@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284086@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284086@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284054@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284054@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284054@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C159 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284038@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284038@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284038@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_SC0402_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235124@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235124@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235124@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C160 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284550@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284550@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284550@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C161 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284582@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284582@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284582@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C162 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284566@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284566@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284566@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C163 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6284534@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6284534@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6284534@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C164 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287958@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287958@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287958@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C165 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287922@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287922@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287922@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C166 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285898@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285898@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285898@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C167 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285746@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285746@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285746@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C168 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286398@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286398@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286398@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C169 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286430@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286430@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286430@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235288@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235288@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235288@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C170 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286414@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286414@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286414@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C171 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286446@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286446@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286446@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C172 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286462@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286462@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286462@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C173 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286478@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286478@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286478@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C174 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285618@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285618@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285618@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C175 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285634@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285634@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285634@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C176 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285682@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285682@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285682@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C177 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285698@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285698@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285698@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C178 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285666@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285666@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285666@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C179 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285650@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285650@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285650@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235312@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235312@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235312@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C180 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285810@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285810@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285810@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C181 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285882@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285882@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285882@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C182 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285826@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285826@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285826@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C183 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285762@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285762@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285762@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C184 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283494@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283494@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283494@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C185 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283474@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283474@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283474@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C186 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283054@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283054@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283054@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C187 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282950@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282950@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282950@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C188 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283354@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283354@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283354@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C189 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283370@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283370@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283370@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235504@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235504@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235504@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C190 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283386@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283386@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283386@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C191 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283402@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283402@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283402@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C192 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283418@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283418@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283418@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C193 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283438@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283438@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283438@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C194 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282818@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282818@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282818@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C195 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282846@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282846@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282846@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C196 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282910@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282910@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282910@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C197 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282934@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282934@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282934@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C198 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282894@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282894@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282894@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C199 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282862@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282862@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282862@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235198@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235198@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235198@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235520@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235520@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235520@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C200 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282982@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282982@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282982@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C201 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283022@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283022@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283022@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C202 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6283006@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6283006@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6283006@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C203 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6282966@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6282966@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6282966@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C204 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287814@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287814@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287814@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C205 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286054@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286054@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286054@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C206 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285914@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285914@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285914@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C207 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286094@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286094@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286094@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C208 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286110@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286110@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286110@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C209 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286158@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286158@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286158@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235536@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235536@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235536@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C210 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286174@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286174@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286174@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C211 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286222@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286222@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286222@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C212 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286238@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286238@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286238@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C213 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285714@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285714@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285714@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C214 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285730@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285730@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285730@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C215 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285794@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285794@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285794@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C216 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285858@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285858@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285858@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C217 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285842@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285842@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285842@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C218 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285778@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285778@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285778@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C219 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285974@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285974@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285974@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235344@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235344@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235344@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C220 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286038@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286038@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286038@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C221 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285990@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285990@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285990@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C222 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6285930@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6285930@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6285930@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C223 'CAP NP_SC0402_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6228055@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6228055@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6228055@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C224 'C_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6228039@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6228039@discrete.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6228039@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C225 'CAP NP_SC0402_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227580@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227580@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227580@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C226 'CAP NP_SC0402_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227596@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227596@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227596@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C227 'CAP NP_SC0402_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227612@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227612@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227612@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C228 'CAP NP_SC0402_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227628@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227628@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227628@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C229 'C_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6228685@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6228685@discrete.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6228685@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235360@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235360@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235360@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C230 'C_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6223616@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6223616@discrete.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6223616@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C231 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6223641@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6223641@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6223641@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C232 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6223667@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6223667@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6223667@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C233 'CAP NP_SC0603_22P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6258847@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6258847@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6258847@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C234 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268261@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268261@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268261@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C235 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268185@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268185@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268185@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C236 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268141@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268141@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268141@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C237 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268157@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268157@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268157@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C238 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268301@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268301@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268301@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C239 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268081@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268081@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268081@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235380@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235380@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235380@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C240 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268285@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268285@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268285@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C241 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6268325@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6268325@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6268325@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C242 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6269029@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6269029@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6269029@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C243 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6269077@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6269077@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6269077@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C244 'CAP NP_SC0603_22P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6258879@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6258879@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6258879@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C245 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307317@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307317@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307317@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C246 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6309147@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6309147@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6309147@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C247 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307417@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307417@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307417@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C248 'C_SC0603_DNP':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6309131@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6309131@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6309131@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C249 'C_SC0603_DNP':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307449@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307449@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307449@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236346@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236346@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236346@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C250 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307509@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307509@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307509@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C251 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307529@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307529@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307529@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C252 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307549@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307549@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307549@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C253 'C_SC0603_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6309051@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6309051@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6309051@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C254 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6310979@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6310979@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6310979@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C255 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6310963@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6310963@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6310963@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C256 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6310995@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6310995@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6310995@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C257 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6311011@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6311011@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6311011@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C258 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6311027@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6311027@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6311027@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C259 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6311047@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6311047@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6311047@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236540@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236540@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236540@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C260 'C_SC0603_22U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6309035@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6309035@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6309035@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C261 'C_SC0603_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6309003@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6309003@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6309003@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C262 'C_SC0603_22U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308983@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308983@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308983@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C263 'C_SC0603_2.2U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308963@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308963@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308963@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C264 'C_SC0603_3.3N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308923@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308923@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308923@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C265 'C_SC0603_2.2U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308901@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308901@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308901@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C266 'C_SC0603_39P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308599@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308599@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308599@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C267 'C_SC0603_3.9N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308491@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308491@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308491@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C268 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308535@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308535@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308535@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C269 'C_SC0603_4.7P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308677@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308677@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308677@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236568@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236568@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236568@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C270 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307641@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307641@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307641@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C271 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307657@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307657@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307657@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C272 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307689@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307689@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307689@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C273 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308709@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308709@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308709@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C274 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308815@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308815@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308815@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C275 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308839@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308839@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308839@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C276 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307753@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307753@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307753@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C277 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307769@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307769@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307769@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C278 'C_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307785@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307785@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307785@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C279 'C_SC0603_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307801@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307801@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307801@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'C_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237086@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237086@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237086@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C280 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307817@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307817@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307817@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C281 'C_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307929@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307929@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307929@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C282 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307945@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307945@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307945@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C283 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307961@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307961@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307961@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C284 'C_SC0603_100P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307977@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307977@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307977@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C285 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308009@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308009@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308009@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C286 'C_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308057@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308057@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308057@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C287 'C_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308129@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308129@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308129@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C288 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308153@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308153@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308153@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C289 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308169@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308169@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308169@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237102@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237102@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237102@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C290 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273422@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273422@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273422@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C291 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273302@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273302@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273302@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C292 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273318@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273318@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273318@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C293 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273334@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273334@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273334@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C294 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273366@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273366@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273366@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C295 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273350@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273350@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273350@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C296 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6273382@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6273382@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6273382@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C297 'CAP NP_SC0603_12P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6272121@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6272121@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6272121@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C298 'CAP NP_SC0603_12P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6272153@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6272153@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6272153@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C299 'CAP NP_SC1210_47U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274270@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274270@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274270@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_SC0603_DNP':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238048@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238048@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238048@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237118@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237118@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237118@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C300 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274286@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274286@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274286@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C301 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274302@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274302@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274302@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C302 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274318@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274318@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274318@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C303 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274334@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274334@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274334@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C304 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274350@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274350@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274350@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C305 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274366@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274366@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274366@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C306 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274382@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274382@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274382@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C307 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6274398@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6274398@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6274398@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C308 'CAP NP_SC0805_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6275094@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6275094@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6275094@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C309 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6275110@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6275110@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6275110@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'C_SC0402_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237138@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237138@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237138@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C310 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6275126@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6275126@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6275126@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C311 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6275142@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6275142@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6275142@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C312 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7260899@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7260899@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7260899@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C313 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7260939@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7260939@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7260939@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C314 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7260959@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7260959@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7260959@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C315 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7260979@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7260979@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7260979@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C316 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261011@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261011@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261011@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C317 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261071@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261071@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261071@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C318 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261131@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261131@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261131@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C319 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261151@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261151@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261151@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'C_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237198@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237198@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237198@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C320 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261183@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261183@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261183@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C321 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261199@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261199@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261199@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C322 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261215@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261215@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261215@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C323 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261251@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261251@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261251@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C324 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261283@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261283@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261283@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C325 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7261311@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7261311@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins7261311@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237214@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237214@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237214@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237230@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237230@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237230@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237250@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237250@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237250@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237298@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237298@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237298@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237326@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237326@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237326@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'C_SC0402_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237346@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237346@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237346@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'C_SC0603_DNP':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235656@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235656@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235656@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235028@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235028@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235028@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236282@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236282@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236282@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236698@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236698@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236698@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'C_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237374@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237374@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237374@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237390@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237390@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237390@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237406@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237406@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237406@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236714@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236714@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236714@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'C_SC0603_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236746@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236746@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236746@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236778@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236778@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236778@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236794@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236794@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236794@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6304038@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6304038@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6304038@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235096@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235096@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235096@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303602@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303602@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303602@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_SC0402_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303554@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303554@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303554@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303570@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303570@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303570@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303694@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303694@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303694@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303710@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303710@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303710@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303726@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303726@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303726@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303762@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303762@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303762@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP NP_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303778@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303778@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303778@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303794@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303794@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303794@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303810@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303810@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303810@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237984@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237984@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237984@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303842@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303842@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303842@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303826@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303826@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303826@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303918@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303918@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303918@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303950@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303950@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303950@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303934@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303934@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303934@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP NP_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6303978@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6303978@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6303978@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215978@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215978@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215978@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP NP_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216034@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216034@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216034@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP NP_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215930@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215930@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215930@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215994@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215994@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215994@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235174@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235174@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235174@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216982@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216982@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216982@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP NP_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7217038@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7217038@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7217038@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP NP_SC0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216938@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216938@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216938@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP NP_SC0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7217006@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7217006@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7217006@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'C_SR0603_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7219838@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7219838@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7219838@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'C_SR0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7219822@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7219822@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7219822@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'C_SR0603_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7219874@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7219874@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7219874@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'C_SR0603_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7219902@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7219902@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7219902@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP_SC7343_1000U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043585@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043585@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043585@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043601@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043601@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043601@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_SC0402_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238000@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238000@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238000@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP_SC7343_100U_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7041879@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7041879@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7041879@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7041907@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7041907@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7041907@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7041947@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7041947@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7041947@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP NP_SC0805_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043883@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043883@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043883@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP NP_SC0805_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043851@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043851@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043851@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043867@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043867@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043867@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042043@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042043@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042043@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_SC3528_22U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042993@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042993@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042993@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP_SC7343_470U_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042933@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042933@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042933@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP_SC7343_330U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042825@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042825@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042825@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_SC0402_0.01U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6238016@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6238016@analog.\c.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6238016@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP_SC7343_1000U_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042681@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042681@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042681@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP_SC7343_470U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042725@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042725@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042725@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042949@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042949@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042949@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042661@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042661@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042661@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP_SC7343_100U_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043085@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043085@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043085@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP_SC3528_10U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043117@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043117@discrete.\cap.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043117@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043137@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043137@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043137@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP NP_SC0805_10N':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043471@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043471@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043471@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP NP_SC0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043899@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043899@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043899@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP NP_SC0805_1U':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043435@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043435@discrete.\cap np.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043435@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 '1N6265/TO_0_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043373@TMS320F2812.1N6265/TO_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043373@tms320f2812.\1n6265/to_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043373@tms320f2812.\1n6265/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159557@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159557@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159557@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159645@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159645@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159645@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159733@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159733@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159733@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159821@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159821@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159821@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159909@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159909@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159909@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6117822@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6117822@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6117822@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229729@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229729@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229729@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229825@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229825@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229825@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229839@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229839@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229839@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229853@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229853@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229853@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229867@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229867@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229867@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229881@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229881@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229881@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_SR0805_LED':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159467@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159467@discrete.\led.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159467@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND1 'CON1_8_HOLE110_CON1':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042585@TDA7385.CON1_8.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042585@tda7385.\con1_8.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042585@tda7385.\con1_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND2 'CON1_8_HOLE110_CON1':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042553@TDA7385.CON1_8.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042553@tda7385.\con1_8.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042553@tda7385.\con1_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND3 'CON1_8_HOLE110_CON1':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042541@TDA7385.CON1_8.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042541@tda7385.\con1_8.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042541@tda7385.\con1_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ GND4 'CON1_8_HOLE110_CON1':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043707@TDA7385.CON1_8.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043707@tda7385.\con1_8.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043707@tda7385.\con1_8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'PWR_PW_2P_PWR':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7195467@FPGA_PARTS.PWR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7195467@fpga_parts.\pwr.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7195467@fpga_parts.\pwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'JTAG_HEAD-14P_JTAG':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS2464@FPGA_PARTS.JTAG.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins2464@fpga_parts.\jtag.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins2464@fpga_parts.\jtag.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP1 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7041963@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7041963@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7041963@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP2 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042977@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042977@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042977@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP3 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042401@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042401@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042401@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6118563@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6118563@discrete.\inductor.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6118563@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6228383@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6228383@discrete.\inductor.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6228383@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6228991@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6228991@discrete.\inductor.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6228991@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'L_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308791@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308791@analog.\l.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308791@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'L_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307913@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307913@analog.\l.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307913@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6271952@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6271952@discrete.\inductor.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6271952@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6275000@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6275000@discrete.\inductor.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6275000@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_SR0603_220@100M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6275458@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6275458@discrete.\inductor.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6275458@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6235236@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6235236@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6235236@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7217102@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7217102@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7217102@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'R_SR0402_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7268459@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7268459@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page5_ins7268459@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_SR0603_82':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7220164@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7220164@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7220164@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_SR0603_1K05':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7220180@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7220180@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7220180@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_SC0805_5.1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7041999@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7041999@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7041999@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_SC0805_2.4K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042569@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042569@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042569@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_SC0805_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042857@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042857@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042857@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_SC0805_3K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043153@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043153@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043153@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_SC0805_2.4K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043253@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043253@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043253@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_SC0805_12.1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042889@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042889@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042889@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_SC0805_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042281@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042281@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042281@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236642@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236642@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236642@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_SC0805_430':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043341@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043341@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043341@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_SC0805_1.21K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042309@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042309@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042309@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS5051@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins5051@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins5051@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS5224@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins5224@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins5224@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS2125@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins2125@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins2125@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS5292@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins5292@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins5292@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_SR0603_100':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS2109@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins2109@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins2109@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_SR0603_100':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS3181@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins3181@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins3181@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS4095@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins4095@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins4095@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS3848@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins3848@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins3848@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216078@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216078@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216078@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS3107@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins3107@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins3107@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS4720@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins4720@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins4720@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_SR0603_100':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6116392@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6116392@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6116392@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6117016@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6117016@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6117016@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6118134@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6118134@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6118134@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_SR0603_470':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6117852@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6117852@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6117852@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_SR0603_33':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6220887@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6220887@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6220887@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6224261@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6224261@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6224261@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6224702@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6224702@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6224702@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_SR0603_4.99K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6224836@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6224836@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6224836@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215842@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215842@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215842@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6224615@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6224615@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6224615@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6226978@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6226978@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6226978@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227046@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227046@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227046@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227070@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227070@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227070@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227094@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227094@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227094@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227148@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227148@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227148@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227172@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227172@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227172@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227196@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227196@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227196@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_SR0603_47R':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227218@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227218@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227218@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_SR0805_150':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6229941@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6229941@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6229941@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215858@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215858@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215858@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_SR0805_150':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6250083@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6250083@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6250083@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_SR0805_150':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6250099@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6250099@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6250099@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_SR0805_150':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6250115@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6250115@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6250115@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_SR0805_150':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6250131@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6250131@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6250131@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_SR0805_150':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6250147@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6250147@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6250147@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6249282@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6249282@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6249282@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6249266@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6249266@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6249266@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6249250@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6249250@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6249250@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6249234@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6249234@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6249234@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6248559@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6248559@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6248559@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216094@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216094@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216094@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_SR0603_51':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6257635@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6257635@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6257635@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_SR0603_51':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6257669@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6257669@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6257669@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_SR0603_300':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159442@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159442@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159442@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_SR0603_300':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159533@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159533@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159533@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_SR0603_300':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159621@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159621@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159621@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_SR0603_300':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159709@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159709@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159709@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R_SR0603_300':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159797@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159797@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159797@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182367@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182367@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182367@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7184860@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7184860@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7184860@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7184876@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7184876@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7184876@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7217082@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7217082@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7217082@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_SR0603_300':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7159885@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7159885@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7159885@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7184892@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7184892@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7184892@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'R_SR0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7184908@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7184908@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7184908@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182167@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182167@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182167@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182267@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182267@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182267@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182067@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182067@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182067@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'R_SR0603_18':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307373@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307373@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307373@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'R_SR0402_100':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7162686@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7162686@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7162686@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'R_SR0402_100':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7162717@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7162717@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7162717@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'R_SR0603_47':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307353@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307353@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307353@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216846@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216846@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216846@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'R_SR0603_33':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307337@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307337@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307337@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307477@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307477@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307477@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307493@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307493@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307493@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'R_SR0603_820':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308455@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308455@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308455@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'R_SR0603_DNP':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308411@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308411@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308411@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308651@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308651@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308651@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'R_SR0603_6.8K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308631@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308631@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308631@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307609@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307609@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307609@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'R_SR0603_50':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6307625@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6307625@analog.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6307625@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'R_SR0603_100K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6271498@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6271498@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6271498@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216878@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216878@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216878@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6270571@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6270571@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6270571@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'R_SR0603_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6270602@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6270602@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6270602@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'R_SR0805_10K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7236596@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7236596@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7236596@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'R_SR0805_10K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7236612@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7236612@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7236612@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'R_SR0805_10K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7236628@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7236628@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7236628@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'R_SR0805_10K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7236664@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7236664@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7236664@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7238606@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7238606@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7238606@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'R_SR0603_0_NC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7238622@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7238622@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7238622@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'R_SR0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7238824@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7238824@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7238824@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'R_SR0402_1K':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7268169@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7268169@discrete.\r.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page5_ins7268169@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SW_0_RST_4P_SW':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6116774@ETEST_PROJ.SW_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6116774@etest_proj.\sw_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6116774@etest_proj.\sw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S2 'SW_0_RST_4P_SW':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182395@ETEST_PROJ.SW_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182395@etest_proj.\sw_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182395@etest_proj.\sw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S3 'SW_0_RST_4P_SW':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182203@ETEST_PROJ.SW_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182203@etest_proj.\sw_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182203@etest_proj.\sw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S4 'SW_0_RST_4P_SW':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182299@ETEST_PROJ.SW_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182299@etest_proj.\sw_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182299@etest_proj.\sw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S5 'SW_0_RST_4P_SW':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182107@ETEST_PROJ.SW_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182107@etest_proj.\sw_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182107@etest_proj.\sw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW DIP-4/SM_DIP8_SW DIP-4/SM':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7184823@DISCRETE.SW DIP-4/SM.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7184823@discrete.\sw dip-4/sm.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7184823@discrete.\sw dip-4/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW DIP-4/SM_DIP8_SW DIP-4/SM':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7237144@DISCRETE.SW DIP-4/SM.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7237144@discrete.\sw dip-4/sm.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins7237144@discrete.\sw dip-4/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SYS_RST1 'SW_0_RST_4P_SW':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6116095@ETEST_PROJ.SW_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6116095@etest_proj.\sw_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6116095@etest_proj.\sw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TSINGADC_QFN68_69_TSINGADC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6237690@ADCLIBRARY.TSINGADC.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6237690@adclibrary.\tsingadc.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6237690@adclibrary.\tsingadc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'REF192_AD8014_REF192':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7219766@ADCLIBRARY.REF192.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7219766@adclibrary.\ref192.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7219766@adclibrary.\ref192.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'TPS74401_3_QFN_20_TPS74401':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043781@DEMO_PROJ.TPS74401_3.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043781@demo_proj.\tps74401_3.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043781@demo_proj.\tps74401_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'PTH08T240_0_PTH08221W_PTH08T221':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042761@NB1202_PRJ.PTH08T240_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042761@nb1202_prj.\pth08t240_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042761@nb1202_prj.\pth08t240_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'TPS74401_3_QFN_20_TPS74401':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7043723@DEMO_PROJ.TPS74401_3.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7043723@demo_proj.\tps74401_3.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7043723@demo_proj.\tps74401_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'PTH08T240_0_PTH08221W_PTH08T221':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7042195@NB1202_PRJ.PTH08T240_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7042195@nb1202_prj.\pth08t240_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page4_ins7042195@nb1202_prj.\pth08t240_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'FMC_LPC_IO_ASP_134604_01_(S1+S2':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6292965@LIBRARY1.FMC_LPC_IOA.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6292965@library1.\fmc_lpc_ioa.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page5_ins6292965@library1.\fmc_lpc_ioa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6293146@LIBRARY1.FMC_LPC_IOB.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6293146@library1.\fmc_lpc_iob.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page5_ins6293146@library1.\fmc_lpc_iob.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6293327@LIBRARY1.FMC_LPC_IOC.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6293327@library1.\fmc_lpc_ioc.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page5_ins6293327@library1.\fmc_lpc_ioc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6293510@LIBRARY1.FMC_LPC_IOD.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6293510@library1.\fmc_lpc_iod.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page5_ins6293510@library1.\fmc_lpc_iod.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U16 'XCF32P_TSOP48_XCF32P':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS1383@FPGA_PARTS.XCF32P.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins1383@fpga_parts.\xcf32p.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins1383@fpga_parts.\xcf32p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'CAT811_CAT811_CAT811':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6116128@FPGA_PARTS.CAT811.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6116128@fpga_parts.\cat811.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6116128@fpga_parts.\cat811.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'CAT811_CAT811_CAT811':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6116236@FPGA_PARTS.CAT811.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6116236@fpga_parts.\cat811.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6116236@fpga_parts.\cat811.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U19 '88E1111_PQFP_128_88E1111':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6221677@FPGA_PARTS.88E1111.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6221677@fpga_parts.\88e1111.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6221677@fpga_parts.\88e1111.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TSINGADC_QFN68_69_TSINGADC':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6236046@ADCLIBRARY.TSINGADC.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6236046@adclibrary.\tsingadc.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page1_ins6236046@adclibrary.\tsingadc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'RJ45_RJ45_HALO_RJ45':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6227857@FPGA_PARTS.RJ45.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6227857@fpga_parts.\rj45.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6227857@fpga_parts.\rj45.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'CRYSTAL_0_CAT811_CAT811':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182419@ETEST_PROJ.CRYSTAL_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182419@etest_proj.\crystal_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182419@etest_proj.\crystal_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'CRYSTAL_0_CAT811_CAT811':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182223@ETEST_PROJ.CRYSTAL_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182223@etest_proj.\crystal_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182223@etest_proj.\crystal_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U23 'SMA_EDGE_CON-BNC-S-T_SMA':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7160290@LIBRARY.SMA_EDGE.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7160290@\library\.\sma_edge.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7160290@\library\.\sma_edge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U24 'CRYSTAL_0_CAT811_CAT811':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182323@ETEST_PROJ.CRYSTAL_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182323@etest_proj.\crystal_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182323@etest_proj.\crystal_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'CRYSTAL_0_CAT811_CAT811':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7182127@ETEST_PROJ.CRYSTAL_0.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7182127@etest_proj.\crystal_0.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7182127@etest_proj.\crystal_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'SMA_EDGE_CON-BNC-S-T_SMA':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7160500@LIBRARY.SMA_EDGE.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7160500@\library\.\sma_edge.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7160500@\library\.\sma_edge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'HEADER1X6_HEAD1X6_HEADER1X6':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7181217@MONITOR_LIB.HEADER1X6.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7181217@monitor_lib.\header1x6.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins7181217@monitor_lib.\header1x6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'LMX2581_LMX2581_LMX2581':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6308317@ADCLIBRARY.LMX2581.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6308317@adclibrary.\lmx2581.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6308317@adclibrary.\lmx2581.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'USBSKT_USBSKT_USBSKT':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6271852@FPGA_PARTS.USBSKT.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6271852@fpga_parts.\usbskt.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6271852@fpga_parts.\usbskt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'JFM4VSX55_BGA1148-3434_(S1+S2+S':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS1081@FPGA_PARTS.JFM4VSX55-1.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins1081@fpga_parts.\jfm4vsx55-1.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins1081@fpga_parts.\jfm4vsx55-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-1';
+
+SECTION_NUMBER 10
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6254659@FPGA_PARTS.JFM4VSX55-10.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6254659@fpga_parts.\jfm4vsx55-10.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6254659@fpga_parts.\jfm4vsx55-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-10';
+
+SECTION_NUMBER 11
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6289068@FPGA_PARTS.JFM4VSX55-11.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6289068@fpga_parts.\jfm4vsx55-11.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6289068@fpga_parts.\jfm4vsx55-11.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-11';
+
+SECTION_NUMBER 12
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6300613@FPGA_PARTS.JFM4VSX55-12.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6300613@fpga_parts.\jfm4vsx55-12.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6300613@fpga_parts.\jfm4vsx55-12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-12';
+
+SECTION_NUMBER 13
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6276377@FPGA_PARTS.JFM4VSX55-13.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6276377@fpga_parts.\jfm4vsx55-13.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page2_ins6276377@fpga_parts.\jfm4vsx55-13.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-13';
+
+SECTION_NUMBER 14
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7203639@FPGA_PARTS.JFM4VSX55-14.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7203639@fpga_parts.\jfm4vsx55-14.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins7203639@fpga_parts.\jfm4vsx55-14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-14';
+
+SECTION_NUMBER 15
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6286778@SCH_LIB.JFM4VSX55-15.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6286778@sch_lib.\jfm4vsx55-15.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6286778@sch_lib.\jfm4vsx55-15.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-15';
+
+SECTION_NUMBER 16
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6287382@SCH_LIB.JFM4VSX55-16.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6287382@sch_lib.\jfm4vsx55-16.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page8_ins6287382@sch_lib.\jfm4vsx55-16.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-16';
+
+SECTION_NUMBER 3
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS8588@FPGA_PARTS.JFM4VSX55-3.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins8588@fpga_parts.\jfm4vsx55-3.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins8588@fpga_parts.\jfm4vsx55-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-3';
+
+SECTION_NUMBER 4
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6256952@FPGA_PARTS.JFM4VSX55-4.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6256952@fpga_parts.\jfm4vsx55-4.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6256952@fpga_parts.\jfm4vsx55-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-4';
+
+SECTION_NUMBER 6
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6269834@FPGA_PARTS.JFM4VSX55-6.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6269834@fpga_parts.\jfm4vsx55-6.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6269834@fpga_parts.\jfm4vsx55-6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-6';
+
+SECTION_NUMBER 7
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6310180@FPGA_PARTS.JFM4VSX55-7.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6310180@fpga_parts.\jfm4vsx55-7.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page10_ins6310180@fpga_parts.\jfm4vsx55-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-7';
+
+SECTION_NUMBER 8
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6300922@FPGA_PARTS.JFM4VSX55-8.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6300922@fpga_parts.\jfm4vsx55-8.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page6_ins6300922@fpga_parts.\jfm4vsx55-8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-8';
+
+PART_NAME
+ U30 'CY7C68013_CY7C68013_CY7C68013':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6270109@FPGA_PARTS.CY7C68013.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6270109@fpga_parts.\cy7c68013.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6270109@fpga_parts.\cy7c68013.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'SMA_EDGE_CON-BNC-S-T_SMA':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215820@LIBRARY.SMA_EDGE.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215820@\library\.\sma_edge.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215820@\library\.\sma_edge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'BALAN_ETC1-1-13TR_BALAN':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215728@LIBRARY.BALAN.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215728@\library\.\balan.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215728@\library\.\balan.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'BALAN_ETC1-1-13TR_BALAN':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7215752@LIBRARY.BALAN.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7215752@\library\.\balan.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7215752@\library\.\balan.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'SMA_EDGE_CON-BNC-S-T_SMA':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216824@LIBRARY.SMA_EDGE.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216824@\library\.\sma_edge.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216824@\library\.\sma_edge.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'BALAN_ETC1-1-13TR_BALAN':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216732@LIBRARY.BALAN.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216732@\library\.\balan.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216732@\library\.\balan.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'BALAN_ETC1-1-13TR_BALAN':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS7216760@LIBRARY.BALAN.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins7216760@\library\.\balan.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page3_ins7216760@\library\.\balan.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'TCXO 100MHZ_XO75_TCXO 100MHZ':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6118417@FPGA_PARTS.TCXO 100MHZ.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6118417@fpga_parts.\tcxo 100mhz.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page7_ins6118417@fpga_parts.\tcxo 100mhz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 '25M_XTAL2-200A_25M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6258822@FPGA_PARTS.25M.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6258822@fpga_parts.\25m.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page9_ins6258822@fpga_parts.\25m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X3 '25M_XTAL2-200A_24M':;
+
+SECTION_NUMBER 1
+ '@ADU_TEST.SCHEMATIC1(SCH_1):INS6272070@FPGA_PARTS.25M.NORMAL(CHIPS)':
+ C_PATH='@adu_test.schematic1(sch_1):ins6272070@fpga_parts.\25m.normal\(chips)',
+ P_PATH='@adu_test.schematic1(sch_1):page11_ins6272070@fpga_parts.\25m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

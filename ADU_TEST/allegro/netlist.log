@@ -1,0 +1,87 @@
+{ Using PSTWRITER 16.6.0 d001Apr-16-2018 at 16:33:57 }
+
+#1 WARNING(ORCAP-36006): Part Name "PTH08T240_0_PTH08221W_PTH08T221W" is renamed to "PTH08T240_0_PTH08221W_PTH08T221".
+#2 WARNING(ORCAP-36006): Part Name "FMC_LPC_IO_ASP_134604_01_(S1+S2+S3+S4)_FMC_LPC_IO" is renamed to "FMC_LPC_IO_ASP_134604_01_(S1+S2".
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H3" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H6" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H9" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#6 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H12" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H15" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H18" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H21" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#10 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H24" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#11 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H27" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#12 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H30" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#13 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H33" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H36" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#15 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H39" as visible power pin of same name already exists in Package FMC_LPC_IOA , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#16 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G1" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#17 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G4" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#18 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G5" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#19 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G8" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#20 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G11" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G14" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G17" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G20" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G23" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G26" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G29" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G32" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G35" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G38" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G40" as visible power pin of same name already exists in Package FMC_LPC_IOB , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D2" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D3" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D6" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D7" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D10" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D13" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D16" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D19" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D22" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D25" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D28" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#42 WARNING(ORCAP-36042): Pin "3P3V" is renamed to "3P3V#D36" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D37" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#44 WARNING(ORCAP-36042): Pin "3P3V" is renamed to "3P3V#D38" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D39" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#46 WARNING(ORCAP-36042): Pin "3P3V" is renamed to "3P3V#D40" as visible power pin of same name already exists in Package FMC_LPC_IOC , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C1" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C4" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#49 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C5" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#50 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C8" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C9" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#52 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C12" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C13" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#54 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C16" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C17" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C20" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C21" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C24" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C25" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C28" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C29" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C32" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#63 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C33" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#64 WARNING(ORCAP-36042): Pin "12P0V" is renamed to "12P0V#C35" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#65 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C36" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#66 WARNING(ORCAP-36042): Pin "12P0V" is renamed to "12P0V#C37" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#67 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C38" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#68 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C40" as visible power pin of same name already exists in Package FMC_LPC_IOD , U15A: SCHEMATIC1, FMC1 (76.20, 78.74).
+#69 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package sma_edge , U23: SCHEMATIC1, PLL (203.20, 58.42).
+#70 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package sma_edge , U23: SCHEMATIC1, PLL (203.20, 58.42).
+#71 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package sma_edge , U23: SCHEMATIC1, PLL (203.20, 58.42).
+#72 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package sma_edge , U23: SCHEMATIC1, PLL (203.20, 58.42).
+#73 WARNING(ORCAP-36006): Part Name "JFM4VSX55_BGA1148-3434_(S1+S2+S3+S4+S5+S6+S7+S8+S9+S10+S11+S12+S13+S14+S15+S16)_JFM4VSX55" is renamed to "JFM4VSX55_BGA1148-3434_(S1+S2+S".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\allegro/pstchip.dat
+#367 WARNING(SPCODD-367): Pin VADJ has multiple pin numbers for one Logical group in the SWAP_INFO property in the chips.prt.This property is being ignored.
+
+Loading... C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\allegro/pstchip.dat
+#367 WARNING(SPCODD-367): Pin VADJ has multiple pin numbers for one Logical group in the SWAP_INFO property in the chips.prt.This property is being ignored.
+
+Loading... C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\allegro/pstxprt.dat
+
+Loading... C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\allegro/pstxnet.dat
+packaging the design view...

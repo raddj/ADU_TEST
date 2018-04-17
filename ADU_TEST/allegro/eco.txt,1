@@ -1,0 +1,44 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/ruyi/Desktop/ADU_TEST/ADU_TEST/allegro/ADU_TEST.brd                |
+|                                                    Mon Apr 16 15:45:11 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ADC1_INN_6236404 pins MOVED FROM this net (to net name listed on right)
+                                 U1.60           2009.92 3710.12
+                                                                       ADC1_INN
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC1_INP_6236420 pins MOVED FROM this net (to net name listed on right)
+                                 U1.59           2009.92 3725.87
+                                                                       ADC1_INP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC2_INN_6236190 pins MOVED FROM this net (to net name listed on right)
+                                 U2.60           1644.55 2119.65
+                                                                       ADC2_INN
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC2_INP_6236190 pins MOVED FROM this net (to net name listed on right)
+                                 U2.59           1644.55 2135.40
+                                                                       ADC2_INP
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/ruyi/Desktop/ADU_TEST/ADU_TEST/allegro/ADU_TEST.brd                |
+|                                                    Mon Apr 16 15:45:11 2018  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ADC1_INN          DIFFERENTIAL_P ADC1_IN
+ ADC1_INP          DIFFERENTIAL_P ADC1_IN
+ ADC2_INN          DIFFERENTIAL_P ADC2_IN
+ ADC2_INP          DIFFERENTIAL_P ADC2_IN
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  8                                              |
+|------------------------------------------------------------------------------|

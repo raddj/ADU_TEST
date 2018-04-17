@@ -1,0 +1,57 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\fpga_parts.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\fpga_parts.olb")
+      (Select "Design Resources" ".\fpga_parts.olb" "TCXO 100MHz"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 427"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1406 25 494")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "126 42")
+        (Zoom "124"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (Package "CY7C68013"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1502 150 619")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "0 276")
+        (Zoom "120"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (Package "88E1111"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1477 125 594")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2605 817")
+        (Zoom "498"))
+      (Path "C:\USERS\RUYI\DESKTOP\ADU_TEST\ADU_TEST\FPGA_PARTS.OLB")
+      (Package "pwr")))
+  (MPSSessionName "ruyi")
+  (ISPCBBASICLICENSE "false"))
